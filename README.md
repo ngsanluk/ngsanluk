@@ -7,4 +7,7 @@
 - 🌱 I’m currently learning cloud architecturing, cloud native development
 - 💬 Ask me about improving tech skills and career switching to tech
 - 📫 How to reach me: <sunny.ng@imagenation.com.hk>
-- ⚡ Fun fact: quitted coding job and pursued film making for a few years and eventually realized coding is true love. But I didn't waste my skills in video producing.  I produce coding video tutorial for my students. <https://www.youtube.com/c/channel536>
+- ⚡ Fun fact: quitted coding job and pursued film making for a few years and eventually realized coding is true love. But I didn't waste my skills in video producing as I produce coding video tutorial for my students. 
+- 🌐 My company website: <https://www.imagenation.com.hk>
+- 🌐 My person website: <https://www.sunnyng.com.hk>
+- ▶️ My YouTube channel: <https://www.youtube.com/c/channel536>
