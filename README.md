@@ -11,3 +11,4 @@
 - 🌐 My company website: <https://www.imagenation.com.hk>
 - 🌐 My person website: <https://www.sunnyng.com.hk>
 - ▶️ My YouTube channel: <https://www.youtube.com/c/channel536>
+- 👤 My LinkedIn Profile: <https://www.linkedin.com/in/ngsunny/>
