@@ -11,6 +11,6 @@
 - 🌐 My personal website - <https://www.sunnyng.com.hk>
 - ▶️ My YouTube channel - <https://www.youtube.com/@inclasshk>
 - 👤 My LinkedIn Profile - <https://www.linkedin.com/in/ngsunny/>
-- My AWS Badges - <https://www.credly.com/users/sunny-ng-sl/badges>
+- My AWS Badges - <https://www.credly.com/users/ngsanluk/badges>
 - My Microsoft Badge - <https://learn.microsoft.com/en-us/users/sanluksunnyng/credentials/6222d77be4faefa7>
 - Observable Notebooks for Learning - <https://observablehq.com/@image-nation>
