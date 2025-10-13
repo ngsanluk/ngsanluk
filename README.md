@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-
-- 👨‍💻 I'm offering AI development, web application development, mobile application development, IoT development and cloud architecturing service
-- 👨‍🏫 I’m teaching AI, full-stack web development, python programming for data science, R programming, cloud computing
-- 💬 Ask me about improving tech skills and career switching to tech
+- 👨‍💻 I'm a developer in AI powered solution, web application, mobile application, IoT application and cloud solution architecting
+- 👨‍🏫 I teach and train practical generative AI, full-stack web development, python programming for data science, R programming, fundamental cloud computing, cloud development, data engineering & machine learning on cloud.
+- 💬 Ask me about tech up-skilling and re-skilling
 - 📫 How to reach me - <sunny.ng@imagenation.com.hk>
-- ⚡ Fun fact: I quitted developer full-time job and pursued my passion in film making for a few years and eventually realized coding is my true love. But I didn't waste my skills in video producing as I produce coding video tutorial to help my students. 
+- ⚡ Fun fact: I quitted my developer full-time job and pursued my passion in film/tv making for a few years and eventually realized coding is my true love. But I didn't waste my skills in video producing as I produce coding video tutorial to help my students.
 - 🌐 My company website - <https://www.imagenation.com.hk>
-- 🌐 My tailor-made tech training services - <https://training.imagenation.com.hk>
-- 🌐 My personal website - <https://www.sunnyng.com.hk>
-- ▶️ My YouTube channel - <https://www.youtube.com/@inclasshk>
-- 👤 My LinkedIn Profile - <https://www.linkedin.com/in/ngsunny/>
-- My AWS Badges - <https://www.credly.com/users/ngsanluk>
-- My Microsoft Badge - <https://learn.microsoft.com/en-us/users/sanluksunnyng/credentials/6222d77be4faefa7>
-- Observable Notebooks for Learning - <https://observablehq.com/@image-nation>
+- 👤 Feel free to conntect on LinkedIn - <https://www.linkedin.com/in/ngsunny/>
+
+**Professional Certifications**
+
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified Data Engineer - Associate
+- AWS Certified Machine Learning Engineer - Associate
+- AWS Certified AI Practitioner
+- AWS Academy Educator
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure AI Engineer Associate
+- Github Copilot
+- MongoDB Skill: Building AI-Powered Search with MongoDB Vector Search
+
+**Tech Learning Resources**
+
+- 🌐 Learning Latest Tech - <https://training.imagenation.com.hk>
+- 🌐 Learn Coding - <https://www.sunnyng.com.hk>
+- ▶️ YouTube Channel - <https://www.youtube.com/@inclasshk>
+- Learning Interactive Data Analysis - <https://observablehq.com/@image-nation>
