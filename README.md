@@ -20,7 +20,7 @@
 - Microsoft Certified: **Azure Developer Associate**
 - Microsoft Certified: **Azure AI Engineer Associate**
 - Github **Copilot**
-- MongoDB Skill: Building AI-Powered Search with MongoDB Vector Search
+- MongoDB Skill: **Building AI-Powered Search with MongoDB Vector Search**
 
 ### Tech Learning Resources
 
