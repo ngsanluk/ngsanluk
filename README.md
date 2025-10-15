@@ -8,21 +8,21 @@
 - 🌐 My company website - <https://www.imagenation.com.hk>
 - 👤 Feel free to conntect on LinkedIn - <https://www.linkedin.com/in/ngsunny/>
 
-**Professional Certifications**
+### Professional Certifications
 
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Developer - Associate
-- AWS Certified Data Engineer - Associate
-- AWS Certified Machine Learning Engineer - Associate
-- AWS Certified AI Practitioner
-- AWS Academy Educator
-- Microsoft Certified: Azure Fundamentals
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure AI Engineer Associate
-- Github Copilot
+- AWS Certified **Solutions Architect - Associate**
+- AWS Certified **Developer - Associate**
+- AWS Certified **Data Engineer - Associate**
+- AWS Certified **Machine Learning Engineer - Associate**
+- AWS Certified **AI Practitioner**
+- AWS Academy **Educator**
+- Microsoft Certified: **Azure Fundamentals**
+- Microsoft Certified: **Azure Developer Associate**
+- Microsoft Certified: **Azure AI Engineer Associate**
+- Github **Copilot**
 - MongoDB Skill: Building AI-Powered Search with MongoDB Vector Search
 
-**Tech Learning Resources**
+### Tech Learning Resources
 
 - 🌐 Learning Latest Tech - <https://training.imagenation.com.hk>
 - 🌐 Learn Coding - <https://www.sunnyng.com.hk>
