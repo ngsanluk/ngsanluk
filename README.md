@@ -5,7 +5,7 @@
 - 💬 Ask me about tech up-skilling and re-skilling
 - 📫 How to reach me - <sunny.ng@imagenation.com.hk>
 - ⚡ Fun fact: I quitted my developer full-time job and pursued my passion in film/tv making for a few years and eventually realized coding is my true love. But I didn't waste my skills in video producing as I produce coding video tutorial to help my students.
-- 🌐 My company website - <https://www.imagenation.com.hk>
+- 🌐 My company website - <https://training.imagenation.com.hk>
 - 👤 Feel free to conntect on LinkedIn - <https://www.linkedin.com/in/ngsunny/>
 
 ### Professional Certifications
