@@ -22,6 +22,7 @@
 - Github **Copilot**
 - Alibaba Certified **Cloud Architect - Professional**
 - MongoDB Skill: **Building AI-Powered Search with MongoDB Vector Search**
+- [Credly Badges Portfolio](https://www.credly.com/users/ngsanluk/badges#credly)
 
 ### Tech Learning Resources
 
