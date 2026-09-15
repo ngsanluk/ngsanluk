@@ -10,6 +10,7 @@
 
 ### Professional Certifications
 
+- Google Cloud Certified Generative AI Leader
 - AWS Certified **Solutions Architect - Associate**
 - AWS Certified **Developer - Associate**
 - AWS Certified **Data Engineer - Associate**
