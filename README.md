@@ -27,7 +27,7 @@
 
 ### Tech Learning Resources
 
-- 🌐 Learning Latest Tech - <https://training.imagenation.com.hk>
+- 🌐 Learning Latest Tech - [https://training.imagenation.com.hk/#learn](https://training.imagenation.com.hk/#learn)
 - 🌐 Learn Coding - <https://www.sunnyng.com.hk>
 - ▶️ YouTube Channel - <https://www.youtube.com/@inclasshk>
 - Learning Interactive Data Analysis - <https://observablehq.com/@image-nation>
